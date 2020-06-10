@@ -2,6 +2,10 @@
 
 This is the Battlecode 2020 scaffold, containing an `examplefuncsplayer`. Read https://2020.battlecode.org/getting-started!
 
+### Project Description
+
+Battlecode is a competition held at MIT every January where teams program bots to compete against each other in a gaming environment
+
 ### Project Structure
 
 - `README.md`
